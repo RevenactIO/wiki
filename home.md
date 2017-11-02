@@ -9,7 +9,7 @@ Here is the right place to look!
 
 If you still have questions, feel free to join our [Discord](https://discord.gg/ScvktPH) to ask for help!
 
-### Installation
+## Installation
 * Requirements
 * Creating a group
 ## Proxies and server
