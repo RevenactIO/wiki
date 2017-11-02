@@ -2,7 +2,7 @@
 <!-- SUBTITLE: The Revenact.io Wiki -->
 
 # Welcome
-Welcome on the [Revenact.io](https://revenact.io)-Wiki!
+Welcome on the Revenact.io-Wiki!
 
 Need help with the installation? Want to know, what feautures Revenact.io has?
 Here is the right place to look!
@@ -24,3 +24,6 @@ If you still have questions, feel free to join our [Discord](https://discord.gg/
    * Static Servers
       * Create static servers
       * Choose a servertype
+## Controller
+* About the controller
+* Main functions
