@@ -11,13 +11,13 @@ We also plan, to make a App, so that you can even use the program on your smartp
 But please make sure, that you have the following requirements, depending on what you want to use:
 
 # Desktop-App
-### Windows
+## Windows
 * Windows XP/Vista/7/8/8.1/10
 * [Amount] GB of free space.
 * [Amount] GB of RAM
 ## Mac
 * A Mac (Obviously)
-### Linux
+## Linux
 * Linux
 
 # Server
