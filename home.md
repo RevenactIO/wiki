@@ -9,21 +9,20 @@ Here is the right place to look!
 
 If you still have questions, feel free to join our [Discord](https://discord.gg/ScvktPH) to ask for help!
 
-## Getting started
 ### Installation
+* Requirements
 * Creating a group
-* The Controller
+## Proxies and server
 * Proxies
+   *  Proxy-types
    *  Create a proxy
-   *  Choose a proxy-type
 * Dynamic and static Server
    * What's the difference?
+   * Servertypes
    * Dynamic Servers
       * Create dynamic servers
-      * Choose a servertype
    * Static Servers
       * Create static servers
-      * Choose a servertype
 ## Controller
 * About the controller
 * Main functions
