@@ -4,7 +4,7 @@
 # Welcome
 Welcome on the Revenact.io-Wiki!
 
-Need help with the installation? Want to know, what feautures \Revenact.io has?
+Need help with the installation? Want to know, what feautures Revenact.io has?
 Here is the right place to look!
 
 If you still have questions, feel free to join our [Discord](https://discord.gg/ScvktPH) to ask for help!
