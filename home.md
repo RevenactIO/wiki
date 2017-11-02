@@ -1,3 +1,5 @@
+<!-- TITLE: Revenact.io-Wiki -->
+
 ![Eebbztz](/uploads/eebbztz.png "Eebbztz")
 # Welcome
 Welcome on the Revenact.io-Wiki!
