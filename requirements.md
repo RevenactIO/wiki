@@ -1,7 +1,7 @@
 <!-- TITLE: Requirements -->
 
 # Intro
-Revenact.io ("The software") works on both, website and desktop.
+Revenact.io works on both, website and desktop.
 You can choos, what you want.
 Want it on your website? No problem!
 Want to use it on your computer, without opening the browser? Use the desktop-app.
