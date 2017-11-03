@@ -2,11 +2,11 @@
 
 # Intro
 Revenact.io works on both, website and desktop.
-You can choos, what you want.
+You can choose, what you want.
 Want it on your website? No problem!
 Want to use it on your computer, without opening the browser? Use the desktop-app.
 
-We also plan, to make a App, so that you can even use the program on your smartphone!
+We also plan, to make an App, so you can even use the program on your smartphone!
 
 But please make sure, that you have the following requirements, depending on what you want to use:
 
