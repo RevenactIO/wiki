@@ -11,6 +11,7 @@ If you still have questions, feel free to join our [Discord](https://discord.gg/
 
 ## Installation
 * [Requirements](requirements)
+* Registration
 * Creating a group
 ## Proxies and server
 * Proxies
