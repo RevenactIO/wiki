@@ -1,6 +1,6 @@
 <!-- TITLE: Revenact.io-Wiki -->
 
-![Revenact.io](/uploads/eebbztz.png "Eebbztz")
+![Revenact.io](/uploads/eebbztz.png "Revenact.io")
 # Welcome
 Welcome on the Revenact.io-Wiki!
 
